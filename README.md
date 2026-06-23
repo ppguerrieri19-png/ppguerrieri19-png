@@ -2,12 +2,11 @@
 
 
 🚀 **Web Developer | 🎓 Software Engineering Student**
+
 🇧🇷 Brazil
 
 I create responsive websites and modern interfaces focused on usability and performance.
-
-I'm currently improving my skills in front-end development, web design, and real-world projects.
-
+I'm currently improving my skills in fullstack development, web design, and real-world projects.
 Passionate about technology, digital marketing, and continuous learning.
 
 ---
