@@ -23,8 +23,6 @@ I also create content and share knowledge on **software development, SaaS, and t
   </a>
 </p>
 
-## 🌐 Where to find me
-
 <p align="left">
   <a href="https://github.com/ppguerrieri19-png" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ppguerrieri19--png-181717?style=for-the-badge&logo=github&logoColor=white" />
