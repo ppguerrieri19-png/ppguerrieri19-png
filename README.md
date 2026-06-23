@@ -14,13 +14,22 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/ppguerrieri19-png">
-    <img src="https://img.shields.io/badge/GitHub-ppguerrieri19-png-181717?style=for-the-badge&logo=github" />
+  <a href="mailto:ppguerrieri19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ppguerrieri19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/ppcguerrieri">
-    <img src="https://img.shields.io/badge/Instagram-@ppcguerrieri-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-   <a href="https://www.youtube.com/@pedropauloo">
-    <img src="https://www.youtube.com/@pedropauloo/featured" />
+
+  <a href="https://wa.me/5573999928222">
+    <img src="https://img.shields.io/badge/WhatsApp-73%2099992--8222-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="mailto:ppguerrieri19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ppguerrieri19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/5573999928222">
+    <img src="https://img.shields.io/badge/WhatsApp-73%2099992--8222-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
