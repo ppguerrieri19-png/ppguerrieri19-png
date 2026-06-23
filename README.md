@@ -4,10 +4,11 @@
 🚀 **Web Developer | 🎓 Software Engineering Student**
 🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+I create responsive websites and modern interfaces focused on usability and performance.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+I'm currently improving my skills in front-end development, web design, and real-world projects.
+
+Passionate about technology, digital marketing, and continuous learning.
 
 ---
 
