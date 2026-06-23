@@ -21,7 +21,7 @@ I also create content and share knowledge on **software development, SaaS, and t
     <img src="https://img.shields.io/badge/Instagram-@ppcguerrieri-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   
   <a href="https://www.youtube.com/@pedropauloo">
-    <img src="hhttps://www.youtube.com/@pedropauloo/featured" />
+    <img src="https://www.youtube.com/@pedropauloo/featured" />
   </a>
 </p>
 
