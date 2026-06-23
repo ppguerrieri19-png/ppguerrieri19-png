@@ -2,7 +2,6 @@
 
 
 🚀 **Web Developer | 🎓 Software Engineering Student**
-
 🇧🇷 Brazil
 
 I create responsive websites and modern interfaces focused on usability and performance.
